@@ -1,0 +1,206 @@
+body {
+  overflow-x: hidden;
+  min-width: 300px;
+}
+
+.container,
+.row {
+  max-width: 100%;
+  overflow-x: hidden;
+}
+
+/* evita deformar imágenes */
+img,
+.card,
+.categoria-item {
+  max-width: 100%;
+  height: auto;
+}
+
+/* evita que las cajas se salgan */
+.categorias-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 40px;
+  padding: 0 15px;
+}
+
+/* tarjetas misma altura */
+.product-wap {
+  height: 100%;
+}
+
+/* Imagen de la tarjeta */
+.card-img {
+  height: 300px;
+  object-fit: cover;
+}
+
+/* Categorías circulares uniformes */
+.categoria-img {
+  width: 120px;
+  height: 120px;
+  object-fit: cover;
+  border-radius: 50%;
+  border: 2px solid #ddd;
+  transition: transform 0.3s;
+}
+
+/* Opcional: efecto hover */
+.categoria-img:hover {
+  transform: scale(1.1);
+}
+
+/* Contenedor Flex */
+.categorias-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 40px;
+  padding: 20px 0;
+}
+
+/* Cada “caja” de categoría */
+.categoria-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 150px;
+}
+
+/* Imagen circular fija */
+.categoria-img {
+  width: 120px;
+  height: 120px;
+  object-fit: cover;
+  border-radius: 50%;
+  border: 2px solid #ddd;
+  transition: transform 0.3s, box-shadow 0.3s;
+}
+
+/* Hover efecto */
+.categoria-img:hover {
+  transform: scale(1.1);
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+}
+
+/* Título centrado */
+.categoria-title {
+  margin-top: 10px;
+  font-size: 1rem;
+  text-align: center;
+}
+
+/* Responsive: si la pantalla es muy pequeña, los círculos bajan automáticamente */
+@media (max-width: 500px) {
+  .categoria-item {
+    width: 120px;
+  }
+  .categoria-img {
+    width: 100px;
+    height: 100px;
+  }
+}
+
+/* Pagina principa index.php */
+
+/* tamaño de las tarjetas */
+.card-small {
+  width: 320px;
+  transition: transform 0.3s;
+}
+
+.card-small:hover {
+  transform: scale(1.05);
+}
+
+.productos-destacados {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+}
+
+/* Altura uniforme de las tarjetas */
+.card-uniform {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  width: 300px;
+  transition: transform 0.3s;
+}
+
+/* Imagen uniforme dentro de la tarjeta */
+.producto-img {
+  width: 100%;
+  height: 300px;
+  object-fit: cover;
+}
+
+/* Centrar el contenido verticalmente y usar flex para empujar el texto de abajo */
+.card-body {
+  display: flex;
+  flex-direction: column;
+}
+
+/* Hover opcional */
+.card-uniform:hover {
+  transform: scale(1.03);
+}
+
+/* Vista de detalles (detail) */
+
+#trgta {
+  background-color: #27313e;
+  color: white;
+  border-radius: 5%;
+}
+
+#carousel-related-product .card {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+#carousel-related-product {
+  overflow-y: hidden;
+}
+
+#btn-minus,
+#btn-plus {
+  width: 60px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 18px;
+  padding: 0;
+}
+
+/* carrusel diseño */
+
+.carousel-item .img-fluid {
+  width: 100%;
+  max-height: 350px;
+  object-fit: cover;
+  border-radius: 10px;
+}
+
+/* about diseño */
+
+.about-img {
+  width: 100%;
+  max-width: 350px;
+  height: 300px;
+  object-fit: cover;
+  border-radius: 15px;
+}
+
+/* header diseño */
+
+#main-header {
+  background-color: #27313e;
+  color: #fff;
+}
