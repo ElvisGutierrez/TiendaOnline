@@ -57,7 +57,7 @@ https://templatemo.com/tm-559-zay-shop
                 <div>
                     <i class="fa fa-envelope mx-2"></i>
                     <a class="navbar-sm-brand text-light text-decoration-none"
-                        href="mailto:info@company.com">info@company.com</a>
+                        href="mailto:elvisreyluis@gmail.com">elvisreyluis@gmail.com</a>
                     <i class="fa fa-phone mx-2"></i>
                     <a class="navbar-sm-brand text-light text-decoration-none" href="tel:23823425"></a>
                 </div>
