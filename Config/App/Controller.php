@@ -1,8 +1,6 @@
 <?php
 class Controller{
-    //esta linea no lo veras en el video es necesario para solucionar las advertencias
       protected $views, $model;
-    //
     public function __construct()
     {
         $this->views = new Views();
