@@ -6,7 +6,7 @@ Incluye integración de **pagos con PayPal (sandbox de prueba)**.
 
 ---
 
-## 📸 Capturas principales
+# Capturas principales
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/43ce72ab-7a8f-4db8-9fd1-bda82bf00b4e" width="80%" />
@@ -15,7 +15,7 @@ Incluye integración de **pagos con PayPal (sandbox de prueba)**.
 
 ---
 
-## Tecnologías utilizadas
+# Tecnologías utilizadas
 
 <p align="center">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
@@ -32,7 +32,7 @@ Incluye integración de **pagos con PayPal (sandbox de prueba)**.
 
 ---
 
-## Características
+# Características
 
 ### Catálogo de productos
 
