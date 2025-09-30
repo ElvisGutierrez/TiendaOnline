@@ -41,14 +41,14 @@ Incluye integración de **pagos con PayPal (sandbox de prueba)**.
   <img src="https://github.com/user-attachments/assets/198d4cbb-3c2a-438d-b65b-f0538a9480a0" width="80%" />
 </div>
 
-<h2>Gestión de pedidos usuarios</h2>
+<h2>Gestión de pedidos usuarios/administración</h2>
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/da2d7b2a-49a0-4ba9-8e12-019291798e20" width="80%" />
   <img src="https://github.com/user-attachments/assets/744c5771-069a-410a-8ed2-917d0a36824a" width="80%" />
 </div>
 
-<h2>Gestión de pedidos administración</h2>
+<h2>Panel administrativo(categorias, productos, usuarios)</h2>
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/1787a763-03f9-4e4c-9561-130a0eaf0108" width="80%" />
