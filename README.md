@@ -7,6 +7,20 @@ Incluye integración de pagos con PayPal (sandbox de prueba).
 <img width="1343" height="630" alt="image" src="https://github.com/user-attachments/assets/43ce72ab-7a8f-4db8-9fd1-bda82bf00b4e" />
 <img width="1343" height="627" alt="image" src="https://github.com/user-attachments/assets/7246ac0e-549f-45c7-9224-5070db85ba1c" />
 
+## Tecnologías utilizadas
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MVC](https://img.shields.io/badge/MVC-FF6F61?style=for-the-badge)
+![Composer](https://img.shields.io/badge/Composer-1575C8?style=for-the-badge&logo=composer&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Apache](https://img.shields.io/badge/Apache-FC6C0C?style=for-the-badge&logo=apache&logoColor=white)
+![PayPal](https://img.shields.io/badge/PayPal-003087?style=for-the-badge&logo=paypal&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+
 Características
 
 - Catálogo de productos con detalles.
@@ -43,17 +57,6 @@ Características
 <img width="1339" height="621" alt="image" src="https://github.com/user-attachments/assets/2fa01115-36be-4e96-9ace-fee960e6bf49" />
 <img width="1341" height="625" alt="image" src="https://github.com/user-attachments/assets/32bed8f5-9a18-4611-bd08-6eda585790e5" />
 
-Tecnologias utilizadas
-
-PHP
-MySQL
-MVC (Modelo-Vista-Controlador)
-Composer
-HTML / CSS / JavaScript
-Apache + .htaccess
-PayPal API (sandbox)
-Sistema de pagos (PayPal sandbox)
-Bootstrap
 
 
 
